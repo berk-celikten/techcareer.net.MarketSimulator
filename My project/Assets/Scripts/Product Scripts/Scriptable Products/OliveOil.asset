@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b97ab9ab34e5ec4aaee0bf3d018328a, type: 3}
+  m_Name: OliveOil
+  m_EditorClassIdentifier: 
+  productName: OliveOil
+  price: 37
+  prefab: {fileID: 1663158576358738, guid: cbd05acb56e7f6246ad7184ffb112eb9, type: 3}
+  boxPrefab: {fileID: 3764821082888075400, guid: 67db550cbdbceb2458839499f8e1e2f9, type: 3}
+  icon: {fileID: 0}
+  description: OliveOil
+  licenseKeyword: drinks
+  maxCountOnShelf: 8

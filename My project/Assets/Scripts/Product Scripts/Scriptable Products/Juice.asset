@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b97ab9ab34e5ec4aaee0bf3d018328a, type: 3}
+  m_Name: Juice
+  m_EditorClassIdentifier: 
+  productName: Juice
+  price: 17
+  prefab: {fileID: 1837873625248013828, guid: fcf271727a6d80942900f7fd099277ec, type: 3}
+  boxPrefab: {fileID: 3764821082888075400, guid: 67db550cbdbceb2458839499f8e1e2f9, type: 3}
+  icon: {fileID: 0}
+  description: Juice
+  licenseKeyword: drinks
+  maxCountOnShelf: 8
